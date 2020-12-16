@@ -1,0 +1,55 @@
+body {
+    background-color: #999;
+    color: black;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: #fff;
+}
+
+table {
+    width: 670px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+
+table tr td {
+    margin: 2px;
+    padding: 2px;
+}
+
+#kep {
+    text-align: center;
+}
+
+#belsotable {
+    width: 650px;
+    background-color: #485808;
+    text-align: center;
+    border: none;
+    color: white;
+}
+
+#belsotable tr td {
+    height: 60pt;
+    margin: 2px;
+    padding: 2px;
+}
+
+.bal {
+    float: left;
+}
+
+#keret {
+    border: 1pt;
+    border-color: black;
+}
+
+th {
+    font-size: 30px;
+}
